@@ -30,13 +30,7 @@ I'm a Software Engineer at **Genpact**, passionate about building scalable backe
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/VanshikaaGuptaa/FlowGate">
-<img src="https://img.shields.io/badge/⚡_FlowGate-Distributed_Throttling_System-8A2BE2?style=for-the-badge" />
-</a>
-
-</div>
+### ⚡ FlowGate — Distributed Throttling System
 
 A high-throughput distributed rate-limiting system designed for scalable traffic management.
 
@@ -48,15 +42,15 @@ A high-throughput distributed rate-limiting system designed for scalable traffic
 
 **Tech Stack**
 
-<img src="https://skillicons.dev/icons?i=java,spring,redis,rabbitmq,mysql,aws&theme=dark" />
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,redis,rabbitmq,mysql,aws&theme=dark" />
+</p>
 
-<div align="center">
+[🔗 View Repository](https://github.com/VanshikaaGuptaa/FlowGate)
 
-<a href="https://github.com/VanshikaaGuptaa">
-<img src="https://img.shields.io/badge/🛡️_SignalSleuth-AI_Powered_Security_Intelligence-8A2BE2?style=for-the-badge" />
-</a>
+---
 
-</div>
+### 🛡️ SignalSleuth — AI-Powered Security Intelligence
 
 An AI-driven security intelligence engine designed to provide organizations with a clear, quantified, and real-time view of their security posture.
 
@@ -67,7 +61,13 @@ An AI-driven security intelligence engine designed to provide organizations with
 
 **Tech Stack**
 
-`AI` `Backend Engineering` `Security Intelligence` `Intelligent Automation`
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,go,redis,aws,docker&theme=dark" />
+</p>
+
+[🔗 View GitHub Profile](https://github.com/VanshikaaGuptaa)
+
+---
 
 ---
 
