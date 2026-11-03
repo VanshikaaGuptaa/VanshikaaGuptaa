@@ -68,10 +68,10 @@ An AI-driven security intelligence engine designed to provide organizations with
 **Tech Stack**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,go,redis,aws,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=go,redis,aws,docker&theme=dark" />
 </p>
 
-[🔗 View GitHub Profile](https://github.com/VanshikaaGuptaa)
+[🔗 View Repository](https://github.com/VanshikaaGuptaa/Observability-MCP)
 
 ---
 
