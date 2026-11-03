@@ -8,9 +8,15 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Profile%20Views-👀-8A2BE2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Followers-🤝-8A2BE2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Open%20to%20Learning-🚀-8A2BE2?style=for-the-badge" />
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=VanshikaaGuptaa&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/VanshikaaGuptaa?style=for-the-badge&color=8A2BE2&label=FOLLOWERS" />
+
+<img src="https://img.shields.io/badge/Open%20to%20Learning-🚀-8A2BE2?style=for-the-badge&labelColor=30363D" />
+
+</div>
+
 
 </div>
 
