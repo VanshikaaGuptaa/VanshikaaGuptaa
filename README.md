@@ -1,6 +1,5 @@
  <div align="center">
 
-<!-- PREMIUM HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:301860,100:8A2BE2&height=200&section=header&text=Vanshika%20Gupta&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%7C%20Distributed%20Systems&descSize=16&descAlignY=60" width="100%" />
 
 <a href="https://git.io/typing-svg">
@@ -31,87 +30,6 @@ I'm a Software Engineer at **Genpact**, passionate about building scalable backe
 
 ---
 
-## ⚡ Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### ⚡ FlowGate
-**Distributed Throttling System**
-
-A high-throughput rate-limiting gateway built for scalable traffic management.
-
-- Distributed token bucket algorithm
-- Atomic Redis Lua operations
-- Asynchronous request processing
-- AWS-based infrastructure
-
-**Highlights:** 10K+ requests/min · Sub-10ms overhead
-
-`Java` `Spring Boot` `Redis` `RabbitMQ` `AWS`
-
-[🔗 Explore Repository](https://github.com/VanshikaaGuptaa/FlowGate)
-
-</td>
-<td width="50%">
-
-### 🔭 Observability MCP
-**AI-Powered Observability Platform**
-
-An MCP-based platform that enables AI assistants to investigate service health, analyze failures, and diagnose incidents.
-
-- Metrics and log querying
-- AI-assisted incident investigation
-- Failure simulation and recovery
-- Distributed service observability
-
-`Go` `MCP` `Prometheus` `Grafana` `Loki` `Docker`
-
-[🔗 Explore My Repositories](https://github.com/VanshikaaGuptaa?tab=repositories)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔄 Syncore
-**Real-Time Collaborative Sync Engine**
-
-A collaborative synchronization engine for managing real-time changes across connected clients.
-
-- Document synchronization
-- Concurrent update handling
-- Backend service architecture
-- Real-time state propagation
-
-`React` `Node.js` `Express` `PostgreSQL`
-
-[🔗 Explore My Repositories](https://github.com/VanshikaaGuptaa?tab=repositories)
-
-</td>
-<td width="50%">
-
-### 🛡️ SignalSleuth
-**AI-Powered Security Intelligence**
-
-An intelligent security engine designed to provide a quantified, real-time view of security posture.
-
-- Security intelligence analysis
-- AI-driven insights
-- Actionable security context
-- Intelligent automation
-
-`AI` `Backend` `Security` `Automation`
-
-[🔗 Explore My Repositories](https://github.com/VanshikaaGuptaa?tab=repositories)
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🛠️ Tech Arsenal
 
 <div align="center">
@@ -135,31 +53,6 @@ An intelligent security engine designed to provide a quantified, real-time view 
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=VanshikaaGuptaa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=percentile" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshikaaGuptaa&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=VanshikaaGuptaa&theme=tokyonight&hide_border=true&background=0D1117" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/VanshikaaGuptaa/VanshikaaGuptaa/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
-
-</div>
-
----
-
 ## 🧠 Problem Solving
 
 <div align="center">
@@ -173,18 +66,6 @@ An intelligent security engine designed to provide a quantified, real-time view 
 *Consistently sharpening problem-solving skills through Data Structures & Algorithms.*
 
 </div>
-
----
-
-## 🌱 Currently Exploring
-
-```text
-→ Advanced System Design & Distributed Systems
-→ Microservices & Event-Driven Architecture
-→ Backend Performance & Scalability
-→ AI Agents & Model Context Protocol (MCP)
-→ Cloud-Native Engineering & Production Infrastructure
-```
 
 ---
 
