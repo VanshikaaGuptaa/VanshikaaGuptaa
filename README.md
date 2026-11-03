@@ -8,11 +8,9 @@
 
 <br/>
 
-<a href="https://github.com/VanshikaaGuptaa">
-<img src="https://komarev.com/ghpvc/?username=VanshikaaGuptaa&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS" />
-</a>
-<img src="https://img.shields.io/github/followers/VanshikaaGuptaa?style=for-the-badge&color=8A2BE2&label=FOLLOWERS" />
-<img src="https://img.shields.io/badge/Open%20to%20Learning-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Profile%20Views-👀-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Followers-🤝-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20to%20Learning-🚀-8A2BE2?style=for-the-badge" />
 
 </div>
 
@@ -25,8 +23,51 @@ I'm a Software Engineer at **Genpact**, passionate about building scalable backe
 - 🔭 Building high-performance backend systems and distributed applications
 - ☁️ Exploring cloud-native architecture, AWS, and infrastructure engineering
 - 🤖 Developing AI-powered tools, MCP servers, and intelligent automation
-- 🧩 Strengthening Data Structures & Algorithms and System Design
+- 🧩 Strengthening backend engineering and system design
 - 🎯 Aspiring to build impactful products as a Backend / Software Development Engineer
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/VanshikaaGuptaa/FlowGate">
+<img src="https://img.shields.io/badge/⚡_FlowGate-Distributed_Throttling_System-8A2BE2?style=for-the-badge" />
+</a>
+
+</div>
+
+A high-throughput distributed rate-limiting system designed for scalable traffic management.
+
+- Implemented distributed token bucket rate limiting
+- Used Redis Lua scripts for atomic operations
+- Integrated RabbitMQ for asynchronous processing
+- Designed and deployed AWS-based infrastructure
+- Achieved **10K+ requests/minute** and **sub-10ms latency overhead** in load testing
+
+**Tech Stack**
+
+<img src="https://skillicons.dev/icons?i=java,spring,redis,rabbitmq,mysql,aws&theme=dark" />
+
+<div align="center">
+
+<a href="https://github.com/VanshikaaGuptaa">
+<img src="https://img.shields.io/badge/🛡️_SignalSleuth-AI_Powered_Security_Intelligence-8A2BE2?style=for-the-badge" />
+</a>
+
+</div>
+
+An AI-driven security intelligence engine designed to provide organizations with a clear, quantified, and real-time view of their security posture.
+
+- Focuses on transforming security signals into actionable intelligence
+- Explores AI-driven security analysis and intelligent insights
+- Designed to help simplify complex security information
+- Combines backend engineering with AI-powered capabilities
+
+**Tech Stack**
+
+`AI` `Backend Engineering` `Security Intelligence` `Intelligent Automation`
 
 ---
 
@@ -53,22 +94,6 @@ I'm a Software Engineer at **Genpact**, passionate about building scalable backe
 
 ---
 
-## 🧠 Problem Solving
-
-<div align="center">
-
-<a href="https://leetcode.com/u/vanshika_gupta2403/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-<br/><br/>
-
-*Consistently sharpening problem-solving skills through Data Structures & Algorithms.*
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -81,9 +106,6 @@ I'm a Software Engineer at **Genpact**, passionate about building scalable backe
 </a>
 <a href="https://github.com/VanshikaaGuptaa">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://leetcode.com/u/vanshika_gupta2403/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 <br/><br/>
